@@ -1,0 +1,680 @@
+             INVOICE
+Page 1 of 5
+Invoice Number
+2340594
+Invoice Date
+January 17, 2025
+Customer Number
+48908
+Project Number
+184032352
+Net Due in 45 Days or in accordance with terms of the contract
+Bill To
+Metropolitan Water District 
+of Southern California
+Accounts Payable 
+PO Box 54153 
+Los Angeles  CA 90054-0153
+United States 
+Please Remit To
+Stantec Consulting Services
+Inc. (SCSI)
+13980 Collections Center 
+Drive   
+Chicago  IL 60693 
+United States 
+Federal Tax ID 
+11-2167170
+Project Description:
+TO5 Foothill Hydroelectric Plant Control Systems Upgrades
+Stantec Project Manager: 
+Contract No:
+Authorization Amount: 
+Authorization Previously Billed: 
+Authorization Budget Remaining: 
+Authorization Billed to Date: 
+Current Invoice Due: 
+For Period:
+Murthy, Umesh N  
+ 
+216225
+$431,014.00
+$318,528.40
+$46,333.10
+$384,680.90
+$66,152.50  
+ 
+ 
+October 1, 2024 - October 31, 2024
+Contact Name:
+Arya Ahang
+Contact Job Title:
+Contract and Project Manager
+Invoice Email:
+accountspayablebusiness@mwdh2o.com
+Client Contact Email:
+hahang@mwdh2o.com
+By signing this invoice, the consultant certifies that the 
+billing hours and work described herein is an accurate 
+and correct record of services performed for 
+Metropolitan under this Agreement and these hours 
+have not been billed on other client invoices. 
+_________________
+Signature
+_________________ 
+Date
+1/17/2025
+INVOICE
+Page 2 of 5
+Invoice Number
+2340594
+Project Number
+184032352
+  
+Top Task 100
+Project Management
+Professional Services
+Billing Level
+Date
+Hours
+Rate
+Current
+Amount
+ 
+Professional 
+Romero-Phillips, Elizabeth Abdulia
+2024-10-10
+0.50
+171.00
+85.50
+Romero-Phillips, Elizabeth Abdulia
+2024-10-17
+0.50
+171.00
+85.50
+1.00
+171.00
+Professional Services Subtotal
+1.00
+171.00
+Top Task 100 Total
+171.00
+Top Task 200
+Electrical - Overall Design
+Professional Services
+Billing Level
+Date
+Hours
+Rate
+Current
+Amount
+ 
+Designer 
+Khemkar, Shubhangi
+2024-10-03
+4.00
+133.00
+532.00
+Khemkar, Shubhangi
+2024-10-16
+5.00
+133.00
+665.00
+Khemkar, Shubhangi
+2024-10-17
+4.00
+133.00
+532.00
+Khemkar, Shubhangi
+2024-10-18
+8.00
+133.00
+1,064.00
+Khemkar, Shubhangi
+2024-10-21
+9.00
+133.00
+1,197.00
+Khemkar, Shubhangi
+2024-10-22
+7.00
+133.00
+931.00
+Khemkar, Shubhangi
+2024-10-25
+2.00
+133.00
+266.00
+Khemkar, Shubhangi
+2024-10-28
+8.50
+133.00
+1,130.50
+47.50
+6,317.50
+ 
+Senior Professional 
+Blanchard, Paul D
+2024-10-21
+1.50
+204.00
+306.00
+Blanchard, Paul D
+2024-10-22
+3.00
+204.00
+612.00
+Blanchard, Paul D
+2024-10-23
+4.00
+204.00
+816.00
+Blanchard, Paul D
+2024-10-24
+4.00
+204.00
+816.00
+Blanchard, Paul D
+2024-10-25
+2.50
+204.00
+510.00
+Blanchard, Paul D
+2024-10-26
+2.50
+204.00
+510.00
+Blanchard, Paul D
+2024-10-27
+3.00
+204.00
+612.00
+Blanchard, Paul D
+2024-10-28
+5.00
+204.00
+1,020.00
+Blanchard, Paul D
+2024-10-29
+5.00
+204.00
+1,020.00
+Blanchard, Paul D
+2024-10-30
+5.00
+204.00
+1,020.00
+Blanchard, Paul D
+2024-10-31
+4.00
+204.00
+816.00
+Wong, Bruce M
+2024-10-08
+2.00
+204.00
+408.00
+INVOICE
+Page 3 of 5
+Invoice Number
+2340594
+Project Number
+184032352
+Wong, Bruce M
+2024-10-12
+2.00
+204.00
+408.00
+Wong, Bruce M
+2024-10-13
+0.50
+204.00
+102.00
+Wong, Bruce M
+2024-10-14
+0.50
+204.00
+102.00
+Wong, Bruce M
+2024-10-16
+0.50
+204.00
+102.00
+Wong, Bruce M
+2024-10-17
+8.00
+204.00
+1,632.00
+Wong, Bruce M
+2024-10-19
+1.00
+204.00
+204.00
+Wong, Bruce M
+2024-10-20
+6.00
+204.00
+1,224.00
+Wong, Bruce M
+2024-10-24
+0.50
+204.00
+102.00
+Wong, Bruce M
+2024-10-25
+1.00
+204.00
+204.00
+Wong, Bruce M
+2024-10-26
+6.00
+204.00
+1,224.00
+Wong, Bruce M
+2024-10-27
+1.00
+204.00
+204.00
+Wong, Bruce M
+2024-10-28
+2.50
+204.00
+510.00
+Wong, Bruce M
+2024-10-29
+4.50
+204.00
+918.00
+Wong, Bruce M
+2024-10-30
+6.00
+204.00
+1,224.00
+81.50
+16,626.00
+Professional Services Subtotal
+129.00
+22,943.50
+Top Task 200 Total
+22,943.50
+Top Task 300
+Electrical - Schematics
+Professional Services
+Billing Level
+Date
+Hours
+Rate
+Current
+Amount
+ 
+Professional 
+Palic, Haris
+2024-10-29
+3.00
+171.00
+513.00
+3.00
+513.00
+ 
+Senior Professional 
+Gonzalez, Mauricio
+2024-10-23
+2.00
+204.00
+408.00
+2.00
+408.00
+Professional Services Subtotal
+5.00
+921.00
+Top Task 300 Total
+921.00
+Top Task 400
+Instrumentation
+Professional Services
+Billing Level
+Date
+Hours
+Rate
+Current
+Amount
+ 
+Assistant Professional 
+Bhuskute, Kedar
+2024-10-14
+1.00
+121.00
+121.00
+INVOICE
+Page 4 of 5
+Invoice Number
+2340594
+Project Number
+184032352
+Bhuskute, Kedar
+2024-10-15
+1.00
+121.00
+121.00
+Bhuskute, Kedar
+2024-10-16
+1.00
+121.00
+121.00
+Patil, Ganesh
+2024-10-04
+4.00
+121.00
+484.00
+Patil, Ganesh
+2024-10-17
+4.00
+121.00
+484.00
+Patil, Ganesh
+2024-10-23
+4.00
+121.00
+484.00
+15.00
+1,815.00
+ 
+Designer 
+Modi, Sagar
+2024-10-07
+2.00
+133.00
+266.00
+Modi, Sagar
+2024-10-15
+1.00
+133.00
+133.00
+Modi, Sagar
+2024-10-16
+3.00
+133.00
+399.00
+Modi, Sagar
+2024-10-17
+6.00
+133.00
+798.00
+Modi, Sagar
+2024-10-21
+4.00
+133.00
+532.00
+Modi, Sagar
+2024-10-22
+2.00
+133.00
+266.00
+Modi, Sagar
+2024-10-24
+1.00
+133.00
+133.00
+Modi, Sagar
+2024-10-28
+3.00
+133.00
+399.00
+Modi, Sagar
+2024-10-29
+8.00
+133.00
+1,064.00
+30.00
+3,990.00
+ 
+Senior Professional 
+Blanchard, Paul D
+2024-10-21
+1.50
+204.00
+306.00
+Blanchard, Paul D
+2024-10-22
+3.00
+204.00
+612.00
+Blanchard, Paul D
+2024-10-23
+4.00
+204.00
+816.00
+Blanchard, Paul D
+2024-10-24
+4.00
+204.00
+816.00
+Blanchard, Paul D
+2024-10-25
+2.50
+204.00
+510.00
+Blanchard, Paul D
+2024-10-26
+2.50
+204.00
+510.00
+Blanchard, Paul D
+2024-10-27
+3.00
+204.00
+612.00
+Blanchard, Paul D
+2024-10-28
+5.00
+204.00
+1,020.00
+Blanchard, Paul D
+2024-10-29
+5.00
+204.00
+1,020.00
+Blanchard, Paul D
+2024-10-30
+5.00
+204.00
+1,020.00
+Blanchard, Paul D
+2024-10-31
+4.00
+204.00
+816.00
+Jensen, Kyle Douglas
+2024-10-01
+3.00
+204.00
+612.00
+Jensen, Kyle Douglas
+2024-10-02
+2.00
+204.00
+408.00
+Jensen, Kyle Douglas
+2024-10-04
+6.00
+204.00
+1,224.00
+Jensen, Kyle Douglas
+2024-10-07
+7.00
+204.00
+1,428.00
+Jensen, Kyle Douglas
+2024-10-08
+7.00
+204.00
+1,428.00
+Jensen, Kyle Douglas
+2024-10-09
+6.00
+204.00
+1,224.00
+Jensen, Kyle Douglas
+2024-10-10
+7.50
+204.00
+1,530.00
+Jensen, Kyle Douglas
+2024-10-11
+8.00
+204.00
+1,632.00
+Jensen, Kyle Douglas
+2024-10-14
+2.00
+204.00
+408.00
+Jensen, Kyle Douglas
+2024-10-15
+3.00
+204.00
+612.00
+Jensen, Kyle Douglas
+2024-10-16
+5.00
+204.00
+1,020.00
+Jensen, Kyle Douglas
+2024-10-17
+10.00
+204.00
+2,040.00
+Jensen, Kyle Douglas
+2024-10-18
+6.00
+204.00
+1,224.00
+Jensen, Kyle Douglas
+2024-10-21
+6.00
+204.00
+1,224.00
+Jensen, Kyle Douglas
+2024-10-22
+5.00
+204.00
+1,020.00
+Jensen, Kyle Douglas
+2024-10-23
+5.00
+204.00
+1,020.00
+Jensen, Kyle Douglas
+2024-10-24
+7.00
+204.00
+1,428.00
+Jensen, Kyle Douglas
+2024-10-25
+8.00
+204.00
+1,632.00
+Jensen, Kyle Douglas
+2024-10-28
+10.00
+204.00
+2,040.00
+INVOICE
+Page 5 of 5
+Invoice Number
+2340594
+Project Number
+184032352
+Jensen, Kyle Douglas
+2024-10-29
+11.00
+204.00
+2,244.00
+Jensen, Kyle Douglas
+2024-10-30
+8.00
+204.00
+1,632.00
+Jensen, Kyle Douglas
+2024-10-31
+6.00
+204.00
+1,224.00
+178.00
+36,312.00
+Professional Services Subtotal
+223.00
+42,117.00
+Top Task 400 Total
+42,117.00
+Total Fees & Disbursements
+$66,152.50
+INVOICE TOTAL (USD)
+$66,152.50
+TO 5 - Foothill Hydroelectric Plant Control System Upgrades Final Design 
+Start Date:
+10/1/2023
+Completion Date:
+6/1/2025
+Agreement:
+216225
+Stantec PM:
+Murthy, Umesh
+MWD Project #:
+Task Order Manager:
+Murthy, Umesh
+Stantec Project #:
+184032352
+Technical Lead:
+Patrick Stahl
+Total
+Fee
+% Complete to 
+Previous 
+Period
+Previous Period
+% Complete 
+to This Period
+Current Invoice
+Total         Invoiced
+431,014.00
+$        
+74%
+318,528.40
+$            
+89%
+66,152.50
+$              
+384,680.90
+$                          
+Total
+431,014.00
+$        
+74%
+318,528.40
+$           
+89%
+66,152.50
+$              
+384,680.90
+$                         
+Work Performed this Reporting Period
+Ongoing coordination with electrical and instrumentation design 
+Developed structural, civil and mechanical design 
+Work Planned for Next Reporting Period
+Continue design developments and submit Phase 2 design
+Issues and Actions Required
+Schedule Considerations
+Meetings / Significant Dates
+None
+List of Deliverables - N/A
+Due Date
+Issued
+QA/QC Initiation 
+Receive Metropolitan comments no later than December 15 to allow for completion of design by the end of January
+Progress Report
+Reporting Period
+10/01/24 - 10/31/24
+Task Order
+TO 5 - Foothill Hydroelectric Plant Control System Upgrades Final 
+Design 

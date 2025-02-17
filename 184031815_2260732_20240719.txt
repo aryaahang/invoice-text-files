@@ -1,0 +1,531 @@
+             INVOICE
+Page 1 of 5
+Invoice Number
+2260732
+Invoice Date
+July 19, 2024
+Customer Number
+48908
+Project Number
+184031815
+Net Due in 45 Days or in accordance with terms of the contract
+Bill To
+Metropolitan Water District of Southern California
+Accounts Payable 
+PO Box 54153 
+Los Angeles  CA 90054-0153 
+United States 
+Please Remit To
+Stantec Consulting Services Inc. (SCSI)
+13980 Collections Center Drive   
+Chicago  IL 60693 
+United States 
+Federal Tax ID 
+11-2167170 
+Project Description:
+TO12 Agreement 216225 Surface Water Reservoir Study, Phase 2
+Stantec Project Manager:
+Murthy, Umesh N
+Authorization Amount:
+$206,686.00
+Authorization Previously Billed:
+$125,488.29
+Authorization Budget Remaining:
+$43,091.71
+Authorization Billed to Date:
+$163,594.29
+Current Invoice Due: 
+$38,106.00
+For Period Ending:
+June 30, 2024
+Attention to:
+Arya Ahang
+Attention job title:
+Contract and Project Manager
+Invoice email:
+accountspayablebusiness@mwdh2o.com
+Client contact email:
+hahang@mwdh2o.com
+INVOICE
+Page 2 of 5
+Invoice Number
+2260732
+Project Number
+184031815
+  
+ 
+Top Task 100
+Project Administration
+Low Task 100
+Project Administration
+Professional Services
+Billing Level
+Date
+Hours
+Rate
+Current
+Amount
+ 
+Company Officer 
+Cathcart, James A (Jim)
+2024-06-17
+2.00
+326.00
+652.00
+Cathcart, James A (Jim)
+2024-06-18
+0.50
+326.00
+163.00
+Cathcart, James A (Jim)
+2024-06-24
+0.25
+326.00
+81.50
+Cathcart, James A (Jim)
+2024-06-25
+1.00
+326.00
+326.00
+Cathcart, James A (Jim)
+2024-06-26
+1.00
+326.00
+326.00
+4.75
+1,548.50
+ 
+Principal Professional II 
+Murthy, Umesh N
+2024-06-14
+1.00
+282.00
+282.00
+1.00
+282.00
+ 
+Professional 
+Romero-Phillips, Elizabeth Abdulia
+2024-06-03
+0.50
+164.00
+82.00
+Romero-Phillips, Elizabeth Abdulia
+2024-06-04
+0.25
+164.00
+41.00
+Romero-Phillips, Elizabeth Abdulia
+2024-06-05
+0.50
+164.00
+82.00
+Romero-Phillips, Elizabeth Abdulia
+2024-06-19
+0.50
+164.00
+82.00
+1.75
+287.00
+Professional Services Subtotal
+7.50
+2,117.50
+Subconsultants
+Date
+Cost
+%
+Current
+Amount
+Direct - Subconsultant Fees
+Dynamic Geospatial Solutions LLC  
+2024-06-28
+150.00
+0.00
+150.00
+20122024004 
+Subconsultants Subtotal
+150.00
+Low Task 100 Subtotal
+2,267.50
+Top Task 100 Total
+2,267.50
+ 
+Top Task 300
+Site List Finalization
+INVOICE
+Page 3 of 5
+Invoice Number
+2260732
+Project Number
+184031815
+Low Task 300
+Site List Finalization
+Professional Services
+Billing Level
+Date
+Hours
+Rate
+Current
+Amount
+ 
+Company Officer 
+Cathcart, James A (Jim)
+2024-06-17
+1.00
+326.00
+326.00
+Cathcart, James A (Jim)
+2024-06-18
+1.00
+326.00
+326.00
+Cathcart, James A (Jim)
+2024-06-19
+3.50
+326.00
+1,141.00
+Cathcart, James A (Jim)
+2024-06-20
+0.75
+326.00
+244.50
+Long, Joseph F
+2024-06-06
+1.00
+326.00
+326.00
+Long, Joseph F
+2024-06-07
+1.00
+326.00
+326.00
+Long, Joseph F
+2024-06-13
+1.00
+326.00
+326.00
+Long, Joseph F
+2024-06-14
+1.00
+326.00
+326.00
+Long, Joseph F
+2024-06-20
+1.00
+326.00
+326.00
+Long, Joseph F
+2024-06-21
+2.00
+326.00
+652.00
+Long, Joseph F
+2024-06-26
+4.00
+326.00
+1,304.00
+Long, Joseph F
+2024-06-27
+4.00
+326.00
+1,304.00
+Swanson, William R
+2024-06-26
+1.00
+326.00
+326.00
+22.25
+7,253.50
+Professional Services Subtotal
+22.25
+7,253.50
+Low Task 300 Subtotal
+7,253.50
+Top Task 300 Total
+7,253.50
+ 
+Top Task 400
+Evaluation and Prioritization
+Low Task 400
+Evaluation and Prioritization
+Professional Services
+Billing Level
+Date
+Hours
+Rate
+Current
+Amount
+ 
+Clerk 
+Ang, Taylor Claire
+2024-06-12
+2.00
+90.00
+180.00
+2.00
+180.00
+ 
+Company Officer 
+Cathcart, James A (Jim)
+2024-06-25
+3.00
+326.00
+978.00
+Cathcart, James A (Jim)
+2024-06-26
+5.00
+326.00
+1,630.00
+Cathcart, James A (Jim)
+2024-06-27
+1.00
+326.00
+326.00
+9.00
+2,934.00
+INVOICE
+Page 4 of 5
+Invoice Number
+2260732
+Project Number
+184031815
+ 
+Professional 
+Mueller, Margot Cecilia
+2024-06-03
+3.00
+164.00
+492.00
+Mueller, Margot Cecilia
+2024-06-04
+6.00
+164.00
+984.00
+Mueller, Margot Cecilia
+2024-06-05
+5.00
+164.00
+820.00
+Mueller, Margot Cecilia
+2024-06-06
+2.00
+164.00
+328.00
+Mueller, Margot Cecilia
+2024-06-07
+6.00
+164.00
+984.00
+Mueller, Margot Cecilia
+2024-06-10
+7.50
+164.00
+1,230.00
+Mueller, Margot Cecilia
+2024-06-11
+7.00
+164.00
+1,148.00
+Mueller, Margot Cecilia
+2024-06-12
+6.00
+164.00
+984.00
+Mueller, Margot Cecilia
+2024-06-13
+7.00
+164.00
+1,148.00
+Mueller, Margot Cecilia
+2024-06-14
+7.50
+164.00
+1,230.00
+Mueller, Margot Cecilia
+2024-06-17
+5.50
+164.00
+902.00
+Mueller, Margot Cecilia
+2024-06-18
+6.00
+164.00
+984.00
+Mueller, Margot Cecilia
+2024-06-19
+2.00
+164.00
+328.00
+Mueller, Margot Cecilia
+2024-06-20
+7.00
+164.00
+1,148.00
+Mueller, Margot Cecilia
+2024-06-21
+6.00
+164.00
+984.00
+Mueller, Margot Cecilia
+2024-06-24
+7.50
+164.00
+1,230.00
+Mueller, Margot Cecilia
+2024-06-25
+8.00
+164.00
+1,312.00
+Mueller, Margot Cecilia
+2024-06-26
+8.00
+164.00
+1,312.00
+Mueller, Margot Cecilia
+2024-06-27
+8.00
+164.00
+1,312.00
+Mueller, Margot Cecilia
+2024-06-28
+8.00
+164.00
+1,312.00
+123.00
+20,172.00
+ 
+Professonal 
+DuCharme, Elysa (Lysa)
+2024-06-07
+0.75
+164.00
+123.00
+DuCharme, Elysa (Lysa)
+2024-06-10
+1.50
+164.00
+246.00
+DuCharme, Elysa (Lysa)
+2024-06-13
+0.50
+164.00
+82.00
+DuCharme, Elysa (Lysa)
+2024-06-14
+0.75
+164.00
+123.00
+3.50
+574.00
+Professional Services Subtotal
+137.50
+23,860.00
+Subconsultants
+Date
+Cost
+%
+Current
+Amount
+Direct - Subconsultant Fees
+Dynamic Geospatial Solutions LLC  
+2024-06-28
+4,725.00
+0.00
+4,725.00
+20122024004 
+Subconsultants Subtotal
+4,725.00
+Low Task 400 Subtotal
+28,585.00
+Top Task 400 Total
+28,585.00
+Total Fees & Disbursements
+$38,106.00
+INVOICE
+Page 5 of 5
+Invoice Number
+2260732
+Project Number
+184031815
+INVOICE TOTAL (USD)
+$38,106.00
+By signing this invoice, the consultant certifies that the 
+billing hours and work described herein is an accurate 
+and correct record of services performed for 
+Metropolitan under this Agreement and these hours 
+have not been billed on other client invoices. 
+_________________ 
+Date
+7/19/2024
+TO 12 ‐ Surface Water Reservoir Study, Phase 2
+Start Date:
+2/1/2024
+Completion Date:
+10/31/2024
+Agreement:
+216225
+Stantec PM:
+Murthy, Umesh
+MWD Project #:
+Task Order Manager:
+Murthy, Umesh
+Stantec Project #:
+184031815
+Technical Lead:
+Jim Cathcart
+Total
+Fee
+% Complete 
+to Previous 
+Period
+Previous Period
+% Complete 
+to This Period
+Current Invoice
+Total         Invoiced
+206,686.00
+$       
+61%
+125,488.29
+$           
+79%
+38,106.00
+$             
+163,594.29
+$                         
+Total
+206,686.00
+$       
+61%
+125,488.29
+$           
+79%
+38,106.00
+$             
+163,594.29
+$                         
+Work Performed this Reporting Period
+Completed Powerpoint slides for Board presentation
+Continued finalizing Phase 2 list of sites
+Stated updating project cost speadsheet
+Continued working on draft template for preferred sites
+Began developing revised criteria for high potential sites
+Work Planned for Next Reporting Period
+Complete draft template for preferred sites
+Complete draft roadmap of work major milestones to complete final site selection
+Continue developing revised criteria to apply to sites
+Issues and Actions Required
+Need to request authorization for optional tasks and for remaining Tasks 5 and 6 to complete remaining work.
+Schedule Considerations
+Meetings / Significant Dates
+None
+List of Deliverables ‐ N/A
+Due Date
+Issued
+Progress Report
+Reporting Period
+6/01/24 ‐ 6/30/24
+Task Order
+TO 12 ‐ Surface Water Reservoir Study, Phase 2
+Calls and emails with MWD PM on progress and possible scope revisions
+None

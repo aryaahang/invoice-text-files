@@ -1,0 +1,363 @@
+             INVOICE
+Page 1 of 3
+Invoice Number
+2341893
+Invoice Date
+January 22, 2025
+Customer Number
+48908
+Project Number
+184032334
+Net Due in 45 Days or in accordance with terms of the contract
+Bill To
+Metropolitan Water District 
+of Southern California
+Accounts Payable 
+PO Box 54153 
+Los Angeles  CA 90054-0153
+United States 
+Please Remit To
+Stantec Consulting Services
+Inc. (SCSI)
+13980 Collections Center 
+Drive   
+Chicago  IL 60693 
+United States 
+Federal Tax ID 
+11-2167170
+Project Description:
+TO2 Demostration Facility Reporting Services
+Stantec Project Manager: 
+Authorization No:
+Authorization Amount: 
+Authorization Previously Billed: 
+Authorization Budget Remaining: 
+Authorization Billed to Date: 
+Current Invoice Due: 
+For Period:
+Murthy, Umesh N   
+ 
+ 
+216225
+$231,311.00
+$128,777.37
+$101,315.44
+$129,995.56
+$1,218.19  
+ 
+ 
+November 1, 2024 - December 31, 2024
+Invoice Attention:
+Arya Ahang
+Invoice Attention Title:
+Contract and Project Manager
+Invoice Email:
+accountspayablebusiness@mwdh2o.com
+Client Contact Email:
+hahang@mwdh2o.com
+By signing this invoice, the consultant certifies that the 
+billing hours and work described herein is an accurate 
+and correct record of services performed for 
+Metropolitan under this Agreement and these hours 
+have not been billed on other client invoices. 
+_________________
+Signature
+_________________ 
+Date
+1/23/2025
+INVOICE
+Page 2 of 3
+Invoice Number
+2341893
+Project Number
+184032334
+  
+ 
+Top Task 100
+Project Administration
+Low Task 100
+Project Administration
+Professional Services
+Billing Level
+Date
+Hours
+Rate
+Current
+Amount
+ 
+Professional 
+Romero-Phillips, Elizabeth Abdulia
+2024-11-05
+0.75
+171.00
+128.25
+Romero-Phillips, Elizabeth Abdulia
+2024-11-06
+0.50
+171.00
+85.50
+Romero-Phillips, Elizabeth Abdulia
+2024-11-07
+0.50
+171.00
+85.50
+Romero-Phillips, Elizabeth Abdulia
+2024-11-21
+0.25
+171.00
+42.75
+Romero-Phillips, Elizabeth Abdulia
+2024-11-22
+0.25
+171.00
+42.75
+2.25
+384.75
+ 
+Senior Professional 
+Ludden, Nadine A (Dina)
+2024-11-21
+0.10
+204.00
+20.40
+0.10
+20.40
+Professional Services Subtotal
+2.35
+405.15
+Low Task 100 Subtotal
+405.15
+Top Task 100 Total
+405.15
+ 
+Top Task 200
+Smbr Data Analysis
+Low Task 200
+Smbr Data Analysis
+Subconsultants
+Date
+Cost
+%
+Current
+Amount
+Direct - Subconsultant Fees
+Trussell Technologies Inc  
+2025-01-14
+789.36
+3.00
+813.04
+10361 
+Subconsultants Subtotal
+813.04
+Low Task 200 Subtotal
+813.04
+Top Task 200 Total
+813.04
+INVOICE
+Page 3 of 3
+Invoice Number
+2341893
+Project Number
+184032334
+Total Fees & Disbursements
+$1,218.19
+INVOICE TOTAL (USD)
+$1,218.19
+149.057-MWD 216225-TO2-
+Demonstration Facility Reporting 
+Services
+Client Project Number:
+184032334
+Stantec Consulting Services, Inc.
+Accounts Payable
+P.O. Box 6610
+Broomfield, CO  80021
+January 14, 2025
+Invoice No:
+0000010361
+Trussell Technologies, Inc.
+224 N. Fair Oaks Ave. Floor 2
+Pasadena, California 91103
+Project Manager: Umesh Murthy - Stantec Project #184032334
+Professional Services from October 01, 2024 to December 31, 2024
+Task
+010
+T1-sMBR Data Analysis
+Professional Personnel
+Hours
+Rate
+Amount
+Senior Engineer I
+Cong, Wen
+   
+4.00
+197.34
+ 
+789.36
+Totals
+4.00
+789.36
+Total Labor
+789.36
+$789.36
+Task Total
+$789.36
+Invoice Total
+Billings to Date
+Current
+Prior
+Total
+Labor
+789.36
+92,433.44
+93,222.80
+Totals
+789.36
+92,433.44
+93,222.80
+Project
+0000010361
+149.057
+149.057-MWD 216225-TO2-DemoFacility Rept
+Invoice
+1:16:15 PM
+Invoice 0000010361 Dated 1/14/2025
+Trussell Technologies, Inc.
+Tuesday, January 14, 2025
+Billing Backup
+Task
+010
+T1-sMBR Data Analysis
+Professional Personnel
+Hours
+Rate
+Amount
+Senior Engineer I
+16 - Cong, Wen
+10/2/2024    
+1.50
+197.34
+ 
+296.01
+16 - Cong, Wen
+10/3/2024    
+1.00
+197.34
+ 
+197.34
+16 - Cong, Wen
+10/18/2024    
+1.50
+197.34
+ 
+296.01
+Totals
+4.00
+789.36
+Total Labor
+789.36
+Task Total
+$789.36
+$789.36
+Project Total
+$789.36
+Total this Report
+Page 2
+ 
+ 
+PROGRESS REPORT  
+ 
+ 
+Client: 149 
+Job No.: 057 
+ 
+Stantec 
+Accounts Payable 
+P.O. Box 6610 
+Broomfield, CO 80021  
+ 
+ 
+ 
+ 
+Between October 1st and December 31st, 2024 
+ 
+ 
+ 
+Project Name: 149.057-MWD 216225-TO2-Demo Facility Rept 
+ 
+Task 1 - sMBR Data Analysis 
+• 
+sMBR LRV data analysis 
+ 
+Task 2 – ISAP Meeting Support 
+• 
+No activities 
+ 
+Task 3 – ISAP Workshop #7, Additional sMBR Data Analysis and Technical Memorandum Preparation 
+• 
+No activities 
+TO 2 - Demostration Fcaility Reporting Services
+Start Date:
+9/1/2023
+Completion Date:
+12/31/2024
+Agreement:
+216225
+Stantec PM:
+Murthy, Umesh
+MWD Project #:
+Task Order Manager:
+Murthy, Umesh
+Stantec Project #:
+184032334
+Technical Lead:
+Zakir Hirani
+Total
+Fee
+% Complete to 
+Previous 
+Period
+Previous Period
+% Complete 
+to This Period
+Current Invoice
+Total         Invoiced
+199,282.00
+$       
+65%
+128,777.37
+$           
+65%
+1,218.19
+$                
+129,995.56
+$                         
+Total
+199,282.00
+$       
+65%
+128,777.37
+$           
+65%
+1,218.19
+$               
+129,995.56
+$                        
+Work Performed this Reporting Period
+Project and subconsultant management 
+Work Planned for Next Reporting Period
+Issues and Actions Required
+None
+Schedule Considerations
+Meetings / Significant Dates
+None
+List of Deliverables - N/A
+Due Date
+Issued
+Progress Report
+Reporting Period
+11/01/24 - 12/31/24
+Task Order
+TO 2 - Demostration Fcaility Reporting Services
+sMBR LRV data analysis
+None

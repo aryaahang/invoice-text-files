@@ -1,0 +1,138 @@
+Arya Ahang
+Metropolitan Water District
+P.O. Box 54153
+accountspayablebusiness@mwdh2o.com
+Michael Nguyen mnguyen@mwdh2o.com
+Los Angeles, CA  90054-0153
+February 10, 2025
+Invoice No:
+166531
+Project
+224-3717A
+MWD Eagle Rock - Control Facility
+Contract Number: Task Order 44 / Agr 208158-02
+Terms:  Net 30 Days of Invoice Date
+Comments:
+Invoice Period:January 1, 2025 -  January 31, 2025
+Phase
+101
+Project Management and Clerical
+Project Management and Clerical
+Task
+101-1
+Project Management
+Project Management
+Professional Personnel
+Hours
+Rate
+Amount
+Project Manager
+Wafer, Jana
+1/15/2025
+5.00
+133.00
+665.00
+Wafer, Jana
+1/22/2025
+2.00
+133.00
+266.00
+Wafer, Jana
+1/23/2025
+2.00
+133.00
+266.00
+Wafer, Jana
+1/24/2025
+2.00
+133.00
+266.00
+Wafer, Jana
+1/29/2025
+1.00
+133.00
+133.00
+Wafer, Jana
+1/30/2025
+1.00
+133.00
+133.00
+Totals
+13.00
+1,729.00
+Total Labor
+1,729.00
+$1,729.00
+Sub-total this Task
+$1,729.00
+Sub-total this Phase
+Phase
+501
+Modeling and Analysis HEP
+Modeling and Analysis HEP
+Task
+501-2
+ETAP Model
+ETAP Model
+Professional Personnel
+Hours
+Rate
+Amount
+Power Engineer II
+Hu, Jiaji
+1/31/2025
+8.00
+125.00
+1,000.00
+Totals
+8.00
+1,000.00
+Total Labor
+1,000.00
+$1,000.00
+Sub-total this Task
+Task
+501-7
+Final Drawings pdf -SLD
+Final Drawings pdf -SLD
+Professional Personnel
+Hours
+Rate
+Amount
+Senior Field Engineer II
+Anvari, Saman
+1/2/2025
+2.00
+115.00
+230.00
+Totals
+2.00
+230.00
+Total Labor
+230.00
+$230.00
+Sub-total this Task
+$1,230.00
+Sub-total this Phase
+$2,959.00
+TOTAL – PLEASE PAY THIS AMOUNT
+Billings to Date
+Current
+Prior
+Total
+Labor
+2,959.00
+5,634.00
+8,593.00
+Totals
+2,959.00
+5,634.00
+8,593.00
+Total Contract Amount
+26,498.00
+Page 2
+Project
+166531
+224-3717A
+MWD Eagle Rock - Control Facility
+Invoice

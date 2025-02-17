@@ -1,0 +1,68 @@
+Arya Ahang
+Metropolitan Water District
+P.O. Box 54153
+accountspayablebusiness@mwdh2o.com
+Michael Nguyen mnguyen@mwdh2o.com
+Los Angeles, CA  90054-0153
+February 10, 2025
+Invoice No:
+166527
+Project
+223-3474C
+MWD - Arc Flash Analysis Jensen WTP
+Contract Number: Task Order 27 / Agr 208158-02
+Terms:  Net 30 Days of Invoice Date
+Comments:
+Invoice Period:January 1, 2025 -  January 31, 2025
+Phase
+101
+Project Management and Clerical
+Project Management and Clerical
+Task
+101-2
+Invoicing
+Invoicing
+Professional Personnel
+Hours
+Rate
+Amount
+Project Manager
+Wafer, Jana
+1/2/2025
+.50
+133.00
+66.50
+Wafer, Jana
+1/30/2025
+1.00
+133.00
+133.00
+Totals
+1.50
+199.50
+Total Labor
+199.50
+$199.50
+Sub-total this Task
+$199.50
+Sub-total this Phase
+$199.50
+TOTAL – PLEASE PAY THIS AMOUNT
+Billings to Date
+Current
+Prior
+Total
+Labor
+199.50
+2,333.00
+2,532.50
+Expense
+0.00
+1,952.03
+1,952.03
+Totals
+199.50
+4,285.03
+4,484.53
+Total Contract Amount
+12,180.00

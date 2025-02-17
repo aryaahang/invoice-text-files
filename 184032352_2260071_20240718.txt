@@ -1,0 +1,262 @@
+             INVOICE
+Page 1 of 3
+Invoice Number
+2260071
+Invoice Date
+July 18, 2024
+Customer Number
+48908
+Project Number
+184032352
+Net Due in 45 Days or in accordance with terms of the contract
+Bill To
+Metropolitan Water District of Southern California
+Accounts Payable 
+PO Box 54153 
+Los Angeles  CA 90054-0153 
+United States 
+Please Remit To
+Stantec Consulting Services Inc. (SCSI)
+13980 Collections Center Drive   
+Chicago  IL 60693 
+United States 
+Federal Tax ID 
+11-2167170 
+Project Description:
+TO5 Hydroelectric Plant Control Systems Upgrades
+Stantec Project Manager:
+Murthy, Umesh N
+Contract No:
+216225
+Authorization Amount:
+$299,000.00
+Authorization Previously Billed:
+$287,425.00
+Authorization Budget Remaining:
+$8,858.00
+Authorization Billed to Date:
+$290,142.00
+Current Invoice Due: 
+$2,717.00
+For Period Ending:
+June 30, 2024
+Contact Name:
+Arya Ahang
+Contact Job Title:
+Contract and Project Manager
+Invoice Email:
+accountspayablebusiness@mwdh2o.com
+Client Contact Email:
+hahang@mwdh2o.com
+INVOICE
+Page 2 of 3
+Invoice Number
+2260071
+Project Number
+184032352
+  
+Top Task 100
+Project Management
+Professional Services
+Billing Level
+Date
+Hours
+Rate
+Current
+Amount
+ 
+Clerk 
+Alam, Jonaed
+2024-06-05
+1.50
+90.00
+135.00
+1.50
+135.00
+ 
+Professional 
+Romero-Phillips, Elizabeth Abdulia
+2024-06-04
+0.25
+164.00
+41.00
+Romero-Phillips, Elizabeth Abdulia
+2024-06-07
+0.50
+164.00
+82.00
+Romero-Phillips, Elizabeth Abdulia
+2024-06-11
+0.25
+164.00
+41.00
+Romero-Phillips, Elizabeth Abdulia
+2024-06-13
+0.50
+164.00
+82.00
+Romero-Phillips, Elizabeth Abdulia
+2024-06-20
+0.50
+164.00
+82.00
+2.00
+328.00
+Professional Services Subtotal
+3.50
+463.00
+Top Task 100 Total
+463.00
+Top Task 400
+Instrumentation
+Professional Services
+Billing Level
+Date
+Hours
+Rate
+Current
+Amount
+ 
+Senior Professional 
+Jensen, Kyle Douglas
+2024-06-04
+2.00
+196.00
+392.00
+Jensen, Kyle Douglas
+2024-06-05
+2.00
+196.00
+392.00
+Jensen, Kyle Douglas
+2024-06-06
+2.00
+196.00
+392.00
+Jensen, Kyle Douglas
+2024-06-13
+1.50
+196.00
+294.00
+Jensen, Kyle Douglas
+2024-06-14
+0.50
+196.00
+98.00
+Jensen, Kyle Douglas
+2024-06-25
+1.00
+196.00
+196.00
+Jensen, Kyle Douglas
+2024-06-26
+1.50
+196.00
+294.00
+Jensen, Kyle Douglas
+2024-06-28
+1.00
+196.00
+196.00
+11.50
+2,254.00
+Professional Services Subtotal
+11.50
+2,254.00
+Top Task 400 Total
+2,254.00
+Total Fees & Disbursements
+$2,717.00
+INVOICE
+Page 3 of 3
+Invoice Number
+2260071
+Project Number
+184032352
+INVOICE TOTAL (USD)
+$2,717.00
+By signing this invoice, the consultant certifies that the 
+billing hours and work described herein is an accurate 
+and correct record of services performed for 
+Metropolitan under this Agreement and these hours 
+have not been billed on other client invoices. 
+_________________
+Signature
+_________________ 
+Date
+7/18/2024
+By signing this invoice, the consultant certifies that the 
+billing hours and work described herein is an accurate 
+and correct record of services performed for 
+Metropolitan under this Agreement and these hours 
+have not been billed on other client invoices. 
+_________________
+Signature
+_________________ 
+Date
+TO 5 ‐ Foothill Hydroelectric Plant Control System Upgrades Final Design 
+Start Date:
+10/1/2023
+Completion Date:
+10/30/2024
+Agreement:
+216225
+Stantec PM:
+Murthy, Umesh
+MWD Project #:
+Task Order Manager:
+Murthy, Umesh
+Stantec Project #:
+184032352
+Technical Lead:
+Patrick Stahl
+Total
+Fee
+% Complete to 
+Previous 
+Period
+Previous Period
+% Complete 
+to This Period
+Current Invoice
+Total         Invoiced
+299,000.00
+$        
+96%
+287,425.00
+$            
+97%
+2,717.00
+$                
+290,142.00
+$                          
+Total
+299,000.00
+$        
+96%
+287,425.00
+$           
+97%
+2,717.00
+$                
+290,142.00
+$                         
+Work Performed this Reporting Period
+Ongoing coordination with Metropolitan regarding Phase 1 comments and CR recommendations 
+Work Planned for Next Reporting Period
+Incorporate Phase 1 design comments into Phase 2 Design 
+Issues and Actions Required
+Schedule Considerations
+Meetings / Significant Dates
+None
+List of Deliverables ‐ N/A
+Due Date
+Issued
+Jul‐24
+Progress Report
+Reporting Period
+6/01/24 ‐ 6/30/24
+Task Order
+TO 5 ‐ Foothill Hydroelectric Plant Control System Upgrades Final 
+Design 
+Phase 2 Design 

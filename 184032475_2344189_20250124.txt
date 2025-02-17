@@ -1,0 +1,1444 @@
+             INVOICE
+Page 1 of 3
+Invoice Number
+2344189
+Invoice Date
+January 24, 2025
+Customer Number
+48908
+Project Number
+184032475
+Net Due in 45 Days or in accordance with terms of the contract
+Bill To
+Metropolitan Water District 
+of Southern California
+Accounts Payable 
+PO Box 54153 
+Los Angeles  CA 90054-0153
+United States 
+Please Remit To
+Stantec Consulting Services
+Inc. (SCSI)
+13980 Collections Center 
+Drive   
+Chicago  IL 60693 
+United States 
+Federal Tax ID 
+11-2167170
+Project Description:
+TO 15 - DPR Testing Equipment Design
+Stantec Project Manager: 
+Authorization No:
+Authorization Amount: 
+Authorization Previously Billed: 
+Authorization Budget Remaining: 
+Authorization Billed to Date: 
+Current Invoice Due: 
+For Period:
+Murthy, Umesh N 
+Agreement No.: 216225
+$1,204,661.00
+$0.00
+$1,096,612.08
+$108,048.92
+$108,048.92  
+ 
+Inception - December 31, 2024
+Contact Name:
+Arya Ahang
+Invoice email:
+accountspayablebusiness@mwdh2o.com
+Client contact email:
+hahang@mwdh2o.com
+By signing this invoice, the consultant certifies that the 
+billing hours and work described herein is an accurate 
+and correct record of services performed for 
+Metropolitan under this Agreement and these hours 
+have not been billed on other client invoices. 
+_________________
+Signature
+_________________ 
+Date
+1/24/2025
+INVOICE
+Page 2 of 3
+Invoice Number
+2344189
+Project Number
+184032475
+Top Task 1
+Project Administration
+Professional Services
+Billing Level
+Date
+Hours
+Rate
+Current
+Amount
+ Professional 
+Romero-Phillips, Elizabeth Abdulia
+2024-11-19
+0.75
+171.00
+128.25
+Romero-Phillips, Elizabeth Abdulia
+2024-11-20
+0.50
+171.00
+85.50
+Romero-Phillips, Elizabeth Abdulia
+2024-12-17
+1.00
+171.00
+171.00
+2.25
+384.75
+Professional Services Subtotal
+2.25
+384.75
+Top Task 1 Total
+384.75
+Top Task 2
+Conceptual Design Report
+Subconsultants
+Date
+Cost
+%
+Current
+Amount
+Direct - Subconsultant Fees
+Trussell Technologies Inc  
+2025-01-15
+35,446.00
+0.00
+35,446.00
+10376 
+Subconsultants Subtotal
+35,446.00
+Top Task 2 Total
+35,446.00
+Top Task 6
+Testing and Monitoring Plan
+Subconsultants
+Date
+Cost
+%
+Current
+Amount
+Direct - Subconsultant Fees
+Trussell Technologies Inc  
+2025-01-15
+72,218.17
+0.00
+72,218.17
+10376 
+Subconsultants Subtotal
+72,218.17
+Top Task 6 Total
+72,218.17
+Total Fees & Disbursements
+$108,048.92
+INVOICE
+Page 3 of 3
+Invoice Number
+2344189
+Project Number
+184032475
+INVOICE TOTAL (USD)
+$108,048.92
+149.062-MWD 216225-TO15-DPR 
+Testing Equipment Design
+Client Project Number:
+184032475
+Stantec Consulting Services, Inc.
+Accounts Payable
+P.O. Box 6610
+Broomfield, CO  80021
+January 15, 2025
+Invoice No:
+0000010376
+Trussell Technologies, Inc.
+224 N. Fair Oaks Ave. Floor 2
+Pasadena, California 91103
+Project Manager: Umesh Murthy - Stantec Project #184032334
+Professional Services from October 01, 2024 to December 31, 2024
+Task
+010
+T1-Provide Conceptual Design Support
+Professional Personnel
+Hours
+Rate
+Amount
+Principal Engineer III
+Trussell, Shane
+   
+10.00
+465.66
+ 
+4,656.60
+Principal Engineer II
+Pecson, Brian
+   
+.50
+352.01
+ 
+176.01
+Trussell, Bryan
+   
+27.00
+352.01
+ 
+9,504.27
+Principal Engineer I
+Debroux, Jean
+   
+44.00
+387.62
+ 
+17,055.28
+Supervising Engineer I
+Tackaert, Rodrigo
+   
+.75
+274.28
+ 
+205.71
+Senior Engineer I
+Cong, Wen
+   
+19.50
+197.34
+ 
+3,848.13
+Totals
+101.75
+35,446.00
+Total Labor
+35,446.00
+$35,446.00
+Task Total
+Task
+020
+T2-Testing and Monitoring Plan
+Professional Personnel
+Hours
+Rate
+Amount
+Principal Engineer II
+Trussell, Bryan
+   
+9.00
+352.01
+ 
+3,168.09
+Principal Engineer I
+Debroux, Jean
+   
+78.75
+387.62
+ 
+30,525.08
+Senior Engineer I
+Cong, Wen
+   
+139.25
+197.34
+ 
+27,479.60
+Associate Engineer II
+Lira, Marcus
+   
+61.50
+179.60
+ 
+11,045.40
+Totals
+288.50
+72,218.17
+Total Labor
+72,218.17
+$72,218.17
+Task Total
+$107,664.17
+Invoice Total
+Project
+0000010376
+149.062
+149.062-MWD-TO15-DPR Testing EQP Design
+Invoice
+Billings to Date
+Current
+Prior
+Total
+Labor
+107,664.17
+0.00
+107,664.17
+Totals
+107,664.17
+0.00
+107,664.17
+Page 2
+Project
+0000010376
+149.062
+149.062-MWD-TO15-DPR Testing EQP Design
+Invoice
+10:34:20 AM
+Invoice 0000010376 Dated 1/15/2025
+Trussell Technologies, Inc.
+Wednesday, January 15, 2025
+Billing Backup
+Task
+010
+T1-Provide Conceptual Design Support
+Professional Personnel
+Hours
+Rate
+Amount
+Principal Engineer III
+24 - Trussell, Shane
+10/22/2024    
+2.00
+465.66
+ 
+931.32
+24 - Trussell, Shane
+10/29/2024    
+2.00
+465.66
+ 
+931.32
+24 - Trussell, Shane
+11/5/2024    
+2.00
+465.66
+ 
+931.32
+24 - Trussell, Shane
+12/20/2024    
+2.00
+465.66
+ 
+931.32
+24 - Trussell, Shane
+12/31/2024    
+2.00
+465.66
+ 
+931.32
+Principal Engineer II
+23 - Pecson, Brian
+10/15/2024    
+.50
+352.01
+ 
+176.01
+23 - Trussell, Bryan
+10/2/2024    
+1.00
+352.01
+ 
+352.00
+23 - Trussell, Bryan
+10/8/2024    
+2.00
+352.01
+ 
+704.02
+23 - Trussell, Bryan
+10/9/2024    
+1.00
+352.01
+ 
+352.01
+23 - Trussell, Bryan
+10/15/2024    
+1.00
+352.01
+ 
+352.01
+23 - Trussell, Bryan
+10/16/2024    
+1.00
+352.01
+ 
+352.01
+23 - Trussell, Bryan
+10/17/2024    
+2.00
+352.01
+ 
+704.02
+23 - Trussell, Bryan
+10/18/2024    
+1.00
+352.01
+ 
+352.01
+23 - Trussell, Bryan
+10/22/2024    
+2.00
+352.01
+ 
+704.02
+23 - Trussell, Bryan
+10/23/2024    
+2.00
+352.01
+ 
+704.02
+23 - Trussell, Bryan
+10/29/2024    
+1.00
+352.01
+ 
+352.01
+23 - Trussell, Bryan
+10/30/2024    
+1.00
+352.01
+ 
+352.01
+23 - Trussell, Bryan
+11/5/2024    
+2.00
+352.01
+ 
+704.02
+23 - Trussell, Bryan
+11/12/2024    
+2.00
+352.01
+ 
+704.02
+23 - Trussell, Bryan
+12/10/2024    
+1.00
+352.01
+ 
+352.01
+23 - Trussell, Bryan
+12/12/2024    
+1.00
+352.01
+ 
+352.01
+23 - Trussell, Bryan
+12/17/2024    
+.50
+352.01
+ 
+176.01
+23 - Trussell, Bryan
+12/20/2024    
+1.50
+352.01
+ 
+528.02
+23 - Trussell, Bryan
+12/23/2024    
+4.00
+352.01
+ 
+1,408.04
+Principal Engineer I
+22 - Debroux, Jean
+10/4/2024    
+2.00
+387.62
+ 
+775.24
+22 - Debroux, Jean
+10/8/2024    
+1.50
+387.62
+ 
+581.43
+22 - Debroux, Jean
+10/10/2024    
+2.00
+387.62
+ 
+775.24
+22 - Debroux, Jean
+10/15/2024    
+2.00
+387.62
+ 
+775.24
+22 - Debroux, Jean
+10/16/2024    
+1.00
+387.62
+ 
+387.62
+22 - Debroux, Jean
+10/28/2024    
+1.00
+387.62
+ 
+387.62
+22 - Debroux, Jean
+10/29/2024    
+2.00
+387.62
+ 
+775.24
+22 - Debroux, Jean
+10/31/2024    
+1.00
+387.62
+ 
+387.62
+22 - Debroux, Jean
+11/5/2024    
+2.00
+387.62
+ 
+775.24
+22 - Debroux, Jean
+11/12/2024    
+2.00
+387.62
+ 
+775.24
+22 - Debroux, Jean
+11/19/2024    
+2.00
+387.62
+ 
+775.24
+22 - Debroux, Jean
+11/26/2024    
+6.00
+387.62
+ 
+2,325.72
+22 - Debroux, Jean
+12/3/2024    
+4.00
+387.62
+ 
+1,550.48
+22 - Debroux, Jean
+12/9/2024    
+1.50
+387.62
+ 
+581.43
+22 - Debroux, Jean
+12/10/2024    
+3.00
+387.62
+ 
+1,162.86
+22 - Debroux, Jean
+12/17/2024    
+2.50
+387.62
+ 
+969.05
+22 - Debroux, Jean
+12/19/2024    
+4.00
+387.62
+ 
+1,550.48
+Page 3
+Project
+0000010376
+149.062
+149.062-MWD-TO15-DPR Testing EQP Design
+Invoice
+22 - Debroux, Jean
+12/20/2024    
+4.50
+387.62
+ 
+1,744.29
+Supervising Engineer I
+19 - Tackaert, Rodrigo
+10/4/2024    
+.75
+274.28
+ 
+205.71
+Senior Engineer I
+16 - Cong, Wen
+10/1/2024    
+2.00
+197.34
+ 
+394.66
+16 - Cong, Wen
+10/3/2024    
+2.75
+197.34
+ 
+542.69
+16 - Cong, Wen
+10/4/2024    
+1.00
+197.34
+ 
+197.34
+16 - Cong, Wen
+10/9/2024    
+.50
+197.34
+ 
+98.67
+16 - Cong, Wen
+10/16/2024    
+.75
+197.34
+ 
+148.01
+16 - Cong, Wen
+10/17/2024    
+.25
+197.34
+ 
+49.34
+16 - Cong, Wen
+10/22/2024    
+2.00
+197.34
+ 
+394.68
+16 - Cong, Wen
+10/30/2024    
+1.50
+197.34
+ 
+296.01
+16 - Cong, Wen
+11/5/2024    
+1.00
+197.34
+ 
+197.34
+16 - Cong, Wen
+11/11/2024    
+.25
+197.34
+ 
+49.34
+16 - Cong, Wen
+11/19/2024    
+.50
+197.34
+ 
+98.67
+16 - Cong, Wen
+12/12/2024    
+1.00
+197.34
+ 
+197.34
+16 - Cong, Wen
+12/16/2024    
+.50
+197.34
+ 
+98.67
+16 - Cong, Wen
+12/20/2024    
+4.00
+197.34
+ 
+789.36
+16 - Cong, Wen
+12/23/2024    
+1.50
+197.34
+ 
+296.01
+Totals
+101.75
+35,446.00
+Total Labor
+35,446.00
+Task Total
+$35,446.00
+Task
+020
+T2-Testing and Monitoring Plan
+Professional Personnel
+Hours
+Rate
+Amount
+Principal Engineer II
+23 - Trussell, Bryan
+11/25/2024    
+1.00
+352.01
+ 
+352.01
+23 - Trussell, Bryan
+11/27/2024    
+6.00
+352.01
+ 
+2,112.06
+23 - Trussell, Bryan
+12/2/2024    
+1.00
+352.01
+ 
+352.01
+23 - Trussell, Bryan
+12/5/2024    
+1.00
+352.01
+ 
+352.01
+Principal Engineer I
+22 - Debroux, Jean
+10/3/2024    
+3.00
+387.62
+ 
+1,162.86
+22 - Debroux, Jean
+10/7/2024    
+3.25
+387.62
+ 
+1,259.77
+22 - Debroux, Jean
+10/11/2024    
+1.00
+387.62
+ 
+387.62
+22 - Debroux, Jean
+10/14/2024    
+3.50
+387.62
+ 
+1,356.67
+22 - Debroux, Jean
+10/15/2024    
+.50
+387.62
+ 
+193.81
+22 - Debroux, Jean
+10/17/2024    
+1.00
+387.62
+ 
+387.62
+22 - Debroux, Jean
+10/18/2024    
+2.00
+387.62
+ 
+775.24
+22 - Debroux, Jean
+10/29/2024    
+1.00
+387.62
+ 
+387.62
+22 - Debroux, Jean
+11/1/2024    
+1.00
+387.62
+ 
+387.62
+22 - Debroux, Jean
+11/5/2024    
+2.00
+387.62
+ 
+775.24
+22 - Debroux, Jean
+11/6/2024    
+3.00
+387.62
+ 
+1,162.86
+22 - Debroux, Jean
+11/7/2024    
+2.00
+387.62
+ 
+775.24
+22 - Debroux, Jean
+11/8/2024    
+4.00
+387.62
+ 
+1,550.48
+22 - Debroux, Jean
+11/11/2024    
+3.50
+387.62
+ 
+1,356.67
+22 - Debroux, Jean
+11/12/2024    
+2.00
+387.62
+ 
+775.24
+22 - Debroux, Jean
+11/13/2024    
+2.00
+387.62
+ 
+775.24
+22 - Debroux, Jean
+11/14/2024    
+4.00
+387.62
+ 
+1,550.48
+22 - Debroux, Jean
+11/15/2024    
+5.00
+387.62
+ 
+1,938.10
+22 - Debroux, Jean
+11/18/2024    
+4.00
+387.62
+ 
+1,550.48
+Page 4
+Project
+0000010376
+149.062
+149.062-MWD-TO15-DPR Testing EQP Design
+Invoice
+22 - Debroux, Jean
+11/19/2024    
+3.00
+387.62
+ 
+1,162.86
+22 - Debroux, Jean
+11/21/2024    
+3.00
+387.62
+ 
+1,162.86
+22 - Debroux, Jean
+11/22/2024    
+6.00
+387.62
+ 
+2,325.72
+22 - Debroux, Jean
+11/25/2024    
+4.50
+387.62
+ 
+1,744.29
+22 - Debroux, Jean
+12/2/2024    
+4.00
+387.62
+ 
+1,550.48
+22 - Debroux, Jean
+12/4/2024    
+4.00
+387.62
+ 
+1,550.48
+22 - Debroux, Jean
+12/5/2024    
+.50
+387.62
+ 
+193.81
+22 - Debroux, Jean
+12/6/2024    
+4.00
+387.62
+ 
+1,550.48
+22 - Debroux, Jean
+12/12/2024    
+2.00
+387.62
+ 
+775.24
+Senior Engineer I
+16 - Cong, Wen
+10/3/2024    
+1.50
+197.34
+ 
+296.01
+16 - Cong, Wen
+10/4/2024    
+7.00
+197.34
+ 
+1,381.38
+16 - Cong, Wen
+10/8/2024    
+4.00
+197.34
+ 
+789.36
+16 - Cong, Wen
+10/9/2024    
+7.00
+197.34
+ 
+1,381.38
+16 - Cong, Wen
+10/10/2024    
+8.00
+197.34
+ 
+1,578.72
+16 - Cong, Wen
+10/11/2024    
+6.50
+197.34
+ 
+1,282.71
+16 - Cong, Wen
+10/14/2024    
+6.25
+197.34
+ 
+1,233.38
+16 - Cong, Wen
+10/15/2024    
+5.25
+197.34
+ 
+1,036.04
+16 - Cong, Wen
+10/16/2024    
+3.75
+197.34
+ 
+740.03
+16 - Cong, Wen
+10/17/2024    
+4.50
+197.34
+ 
+888.03
+16 - Cong, Wen
+10/18/2024    
+1.00
+197.34
+ 
+197.34
+16 - Cong, Wen
+10/21/2024    
+4.00
+197.34
+ 
+789.36
+16 - Cong, Wen
+10/22/2024    
+2.50
+197.34
+ 
+493.35
+16 - Cong, Wen
+10/25/2024    
+.50
+197.34
+ 
+98.67
+16 - Cong, Wen
+10/28/2024    
+2.50
+197.34
+ 
+493.35
+16 - Cong, Wen
+10/31/2024    
+5.00
+197.34
+ 
+986.70
+16 - Cong, Wen
+11/1/2024    
+1.50
+197.34
+ 
+296.01
+16 - Cong, Wen
+11/4/2024    
+4.50
+197.34
+ 
+888.03
+16 - Cong, Wen
+11/5/2024    
+3.50
+197.34
+ 
+690.69
+16 - Cong, Wen
+11/7/2024    
+6.50
+197.34
+ 
+1,282.71
+16 - Cong, Wen
+11/8/2024    
+3.00
+197.34
+ 
+592.02
+16 - Cong, Wen
+11/11/2024    
+4.25
+197.34
+ 
+838.67
+16 - Cong, Wen
+11/12/2024    
+4.50
+197.34
+ 
+888.03
+16 - Cong, Wen
+11/14/2024    
+3.25
+197.34
+ 
+641.36
+16 - Cong, Wen
+11/15/2024    
+6.50
+197.34
+ 
+1,282.71
+16 - Cong, Wen
+11/18/2024    
+1.50
+197.34
+ 
+296.01
+16 - Cong, Wen
+11/19/2024    
+1.75
+197.34
+ 
+345.35
+16 - Cong, Wen
+11/21/2024    
+.50
+197.34
+ 
+98.67
+16 - Cong, Wen
+11/22/2024    
+2.00
+197.34
+ 
+394.68
+16 - Cong, Wen
+11/25/2024    
+4.50
+197.34
+ 
+888.03
+16 - Cong, Wen
+11/26/2024    
+3.50
+197.34
+ 
+690.69
+16 - Cong, Wen
+11/27/2024    
+2.75
+197.34
+ 
+542.69
+16 - Cong, Wen
+12/2/2024    
+6.50
+197.34
+ 
+1,282.71
+16 - Cong, Wen
+12/3/2024    
+.50
+197.34
+ 
+98.67
+16 - Cong, Wen
+12/5/2024    
+2.50
+197.34
+ 
+493.35
+16 - Cong, Wen
+12/6/2024    
+.50
+197.34
+ 
+98.67
+16 - Cong, Wen
+12/12/2024    
+3.50
+197.34
+ 
+690.69
+16 - Cong, Wen
+12/13/2024    
+2.00
+197.34
+ 
+394.68
+16 - Cong, Wen
+12/23/2024    
+.50
+197.34
+ 
+98.67
+Page 5
+Project
+0000010376
+149.062
+149.062-MWD-TO15-DPR Testing EQP Design
+Invoice
+Associate Engineer II
+12 - Lira, Marcus
+10/9/2024    
+6.50
+179.60
+ 
+1,167.40
+12 - Lira, Marcus
+10/10/2024    
+5.00
+179.60
+ 
+898.00
+12 - Lira, Marcus
+10/11/2024    
+2.50
+179.60
+ 
+449.00
+12 - Lira, Marcus
+10/14/2024    
+1.00
+179.60
+ 
+179.60
+12 - Lira, Marcus
+10/15/2024    
+1.50
+179.60
+ 
+269.40
+12 - Lira, Marcus
+10/17/2024    
+1.00
+179.60
+ 
+179.60
+12 - Lira, Marcus
+10/18/2024    
+1.00
+179.60
+ 
+179.60
+12 - Lira, Marcus
+10/29/2024    
+.50
+179.60
+ 
+89.80
+12 - Lira, Marcus
+10/30/2024    
+3.00
+179.60
+ 
+538.80
+12 - Lira, Marcus
+10/31/2024    
+1.00
+179.60
+ 
+179.60
+12 - Lira, Marcus
+11/1/2024    
+3.00
+179.60
+ 
+538.80
+12 - Lira, Marcus
+11/4/2024    
+4.00
+179.60
+ 
+718.40
+12 - Lira, Marcus
+11/5/2024    
+2.00
+179.60
+ 
+359.20
+12 - Lira, Marcus
+11/7/2024    
+5.00
+179.60
+ 
+898.00
+12 - Lira, Marcus
+11/11/2024    
+1.50
+179.60
+ 
+269.40
+12 - Lira, Marcus
+11/12/2024    
+1.00
+179.60
+ 
+179.60
+12 - Lira, Marcus
+11/14/2024    
+3.50
+179.60
+ 
+628.60
+12 - Lira, Marcus
+11/15/2024    
+5.00
+179.60
+ 
+898.00
+12 - Lira, Marcus
+11/18/2024    
+1.50
+179.60
+ 
+269.40
+12 - Lira, Marcus
+11/20/2024    
+2.50
+179.60
+ 
+449.00
+12 - Lira, Marcus
+11/22/2024    
+1.00
+179.60
+ 
+179.60
+12 - Lira, Marcus
+11/25/2024    
+3.00
+179.60
+ 
+538.80
+12 - Lira, Marcus
+11/26/2024    
+2.00
+179.60
+ 
+359.20
+12 - Lira, Marcus
+12/2/2024    
+1.00
+179.60
+ 
+179.60
+12 - Lira, Marcus
+12/4/2024    
+.50
+179.60
+ 
+89.80
+12 - Lira, Marcus
+12/13/2024    
+1.00
+179.60
+ 
+179.60
+12 - Lira, Marcus
+12/23/2024    
+1.00
+179.60
+ 
+179.60
+Totals
+288.50
+72,218.17
+Total Labor
+72,218.17
+Task Total
+$72,218.17
+$107,664.17
+Project Total
+$107,664.17
+Total this Report
+Page 6
+ 
+ 
+PROGRESS REPORT  
+ 
+ 
+Client: 149 
+Job No.: 062 
+ 
+Stantec 
+Accounts Payable 
+P.O. Box 6610 
+Broomfield, CO 80021  
+ 
+ 
+Between October 1st and November 30th, 2024 
+ 
+ 
+Project Name: MWD-TO15-DPR Testing EQP Design\ 
+ 
+Task 1 – Provide Conceptual Design Support 
+• 
+Review budget for engineers' hours 
+• 
+Pilot Design Meeting 
+• 
+Review Zakir's slides 
+• 
+Met meeting 
+• 
+LRV 
+• 
+Invoice review 
+• 
+Find capacities of other California DPR pilot/demos. 
+• 
+Workplan update 
+• 
+ISAP slides 
+• 
+TO2 Change Order Contract Review 
+• 
+Respond to MWD inquiries 
+• 
+MWD meeting 
+• 
+Default train review 
+• 
+Meeting with consultant team internal meeting, pilot plan 
+• 
+Meet with MWD 
+• 
+Design review 
+• 
+Reviewing changes to treatment trains 
+• 
+External meetings with consultants and MWD; Validation study design 
+• 
+Pilot design support 
+ 
+Task 2 –Testing and Monitoring Plan 
+• 
+Consultant meetings 
+• 
+Internal coordination and review 
+• 
+Meeting with MWD and internal coordination 
+• 
+Review Pilot Plan 
+• 
+Design meeting with consultant team and meeting with MWD. Review Pilot plan 
+• 
+Internal meeting and pilot plan 
+• 
+DPR vs IPR meeting 
+• 
+Ozone/UV/AOP section 
+• 
+MWD Pilot Test Plan 
+• 
+Finalizing MWD DPR Test Plan Draft 
+• 
+Review MWD Pilot Test Plan and addressing new comments 
+• 
+DPR Pilot Test Plan Review and addressing comments and filling out the punch line 
+spreadsheet 
+• 
+Pilot Test Plan review and addressing comments 
+• 
+Ozone Tracer testing review 
+ 
+TO 15 - DPR Testing Equipment Design
+Start Date:
+10/1/2024
+Completion Date:
+6/30/2027
+Agreement:
+216225
+Stantec PM:
+Murthy, Umesh
+MWD Project #:
+Task Order Manager:
+Murthy, Umesh
+Stantec Project #:
+184032475
+Technical Lead:
+Zakir Hirani
+Total
+Fee
+% Complete to 
+Previous 
+Period
+Previous Period
+% Complete 
+to This Period
+Current Invoice
+Total         Invoiced
+1,204,661.00
+$    
+0%
+-
+$                         
+9%
+108,048.92
+$           
+108,048.92
+$                         
+Total
+1,204,661.00
+$    
+0%
+-
+$                         
+9%
+108,048.92
+$           
+108,048.92
+$                        
+Work Performed this Reporting Period
+Project initiation and management 
+Work Planned for Next Reporting Period
+Incorporate comments from Metropolitan on test plan and pre-purchase specifications
+Issues and Actions Required
+None
+Schedule Considerations
+Meetings / Significant Dates
+None
+List of Deliverables - N/A
+Due Date
+Issued
+Progress Report
+Reporting Period
+Inception - 12/31/24
+Task Order
+TO 15 - DPR Testing Equipment Design
+None
+Prepare DPR test plan and review conceptual design of DPR testing facility
+None

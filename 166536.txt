@@ -1,0 +1,284 @@
+Arya Ahang
+Metropolitan Water District
+P.O. Box 54153
+accountspayablebusiness@mwdh2o.com
+Michael Nguyen mnguyen@mwdh2o.com
+Los Angeles, CA  90054-0153
+February 10, 2025
+Invoice No:
+166536
+Project
+224-3713A
+MWD Lake Skinner Aux Facilities
+Contract Number: Task Order 42 / Agr 208158-02
+Terms:  Net 30 Days of Invoice Date
+Comments:
+Invoice Period:January 1, 2025 -  January 31, 2025
+Phase
+101
+Project Management and Clerical
+Project Management and Clerical
+Task
+101-1
+Project Management
+Project Management
+Professional Personnel
+Hours
+Rate
+Amount
+Project Manager
+Wafer, Jana
+1/9/2025
+1.00
+133.00
+133.00
+Wafer, Jana
+1/10/2025
+1.00
+133.00
+133.00
+Wafer, Jana
+1/14/2025
+5.00
+133.00
+665.00
+Wafer, Jana
+1/22/2025
+2.00
+133.00
+266.00
+Wafer, Jana
+1/23/2025
+2.00
+133.00
+266.00
+Wafer, Jana
+1/24/2025
+2.00
+133.00
+266.00
+Wafer, Jana
+1/27/2025
+1.00
+133.00
+133.00
+Wafer, Jana
+1/28/2025
+1.00
+133.00
+133.00
+Totals
+15.00
+1,995.00
+Total Labor
+1,995.00
+$1,995.00
+Sub-total this Task
+$1,995.00
+Sub-total this Phase
+Phase
+501
+Modeling and Analysis HEP Bypass Structu
+Modeling and Analysis HEP Bypass Structure
+Task
+501-4
+TCC Report
+TCC Report
+Professional Personnel
+Hours
+Rate
+Amount
+Power Engineer II
+Hu, Jiaji
+1/6/2025
+8.00
+125.00
+1,000.00
+Totals
+8.00
+1,000.00
+Total Labor
+1,000.00
+$1,000.00
+Sub-total this Task
+Task
+501-6
+ETAP Report and Recommendations
+ETAP Report and Recommendations
+Professional Personnel
+Hours
+Rate
+Amount
+Power Engineer II
+Hu, Jiaji
+1/2/2025
+8.00
+125.00
+1,000.00
+Hu, Jiaji
+1/3/2025
+8.00
+125.00
+1,000.00
+Hu, Jiaji
+1/10/2025
+6.00
+125.00
+750.00
+Hu, Jiaji
+1/16/2025
+4.00
+125.00
+500.00
+Totals
+26.00
+3,250.00
+Total Labor
+3,250.00
+$3,250.00
+Sub-total this Task
+$4,250.00
+Sub-total this Phase
+Phase
+502
+Modeling and Analysis HEP Skinner Inlet
+Modeling and Analysis HEP Skinner Inlet
+Task
+502-4
+TCC Report
+TCC Report
+Professional Personnel
+Hours
+Rate
+Amount
+Power Engineer II
+Hu, Jiaji
+1/7/2025
+8.00
+125.00
+1,000.00
+Totals
+8.00
+1,000.00
+Total Labor
+1,000.00
+$1,000.00
+Sub-total this Task
+Task
+502-6
+ETAP Report and Recommendations
+ETAP Report and Recommendations
+Professional Personnel
+Hours
+Rate
+Amount
+Power Engineer II
+Hu, Jiaji
+1/9/2025
+6.00
+125.00
+750.00
+Hu, Jiaji
+1/16/2025
+4.00
+125.00
+500.00
+Totals
+10.00
+1,250.00
+Total Labor
+1,250.00
+$1,250.00
+Sub-total this Task
+$2,250.00
+Sub-total this Phase
+Phase
+503
+Modeling and Analysis HEP Fish Barrier
+Modeling and Analysis HEP Fish Barrier
+Task
+503-4
+TCC Report
+TCC Report
+Professional Personnel
+Hours
+Rate
+Amount
+Power Engineer II
+Hu, Jiaji
+1/8/2025
+8.00
+125.00
+1,000.00
+Totals
+8.00
+1,000.00
+Total Labor
+1,000.00
+$1,000.00
+Sub-total this Task
+Page 2
+Project
+166536
+224-3713A
+MWD Lake Skinner Aux Facilities
+Invoice
+Task
+503-6
+ETAP Report and Recommendations
+ETAP Report and Recommendations
+Professional Personnel
+Hours
+Rate
+Amount
+Power Engineer II
+Hu, Jiaji
+1/10/2025
+4.00
+125.00
+500.00
+Hu, Jiaji
+1/17/2025
+4.00
+125.00
+500.00
+Hu, Jiaji
+1/20/2025
+8.00
+125.00
+1,000.00
+Totals
+16.00
+2,000.00
+Total Labor
+2,000.00
+$2,000.00
+Sub-total this Task
+$3,000.00
+Sub-total this Phase
+$11,495.00
+TOTAL – PLEASE PAY THIS AMOUNT
+Billings to Date
+Current
+Prior
+Total
+Labor
+11,495.00
+23,166.00
+34,661.00
+Expense
+0.00
+233.16
+233.16
+Totals
+11,495.00
+23,399.16
+34,894.16
+Total Contract Amount
+63,525.00
+Page 3
+Project
+166536
+224-3713A
+MWD Lake Skinner Aux Facilities
+Invoice

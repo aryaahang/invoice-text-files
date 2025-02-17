@@ -1,0 +1,138 @@
+Page 1
+145 S. State College Blvd. \ Suite 600  Brea, CA 92821 \ burnsmcd.com
+Invoice:
+176476-5
+Federal ID:
+87-3243043
+February 06, 2025
+Client Agreement:
+208159-02
+Client Task Order:
+28
+METROPOLITAN WATER DISTRICT OF SOUTHERN 
+CALIFORNIA
+ACCOUNTS PAYABLE
+PO BOX 54153
+LOS ANGELES CA 90054-0153
+SEND PAYMENT TO:
+Burns & McDonnell Western Enterprises, 
+Inc.
+PO BOX 875081
+Kansas City, MO 64187-5081
+Reference Invoice Number with Payment
+TERMS: NET 30 DAYS
+ACH AND WIRE INSTRUCTIONS:
+Account: 9872599950
+Routing: 101000695
+SWIFT Code: UMKCUS44
+United Missouri Bank
+1010 Grand
+KANSAS CITY, MO 64106
+(816)-860-7000
+Professional Services for Palos Verdes Reservoir
+Service Start Date: 01-Jan-2025
+SERVICE THROUGH:
+31-Jan-2025
+Labor Classifications
+ Level
+Regular
+Hours
+Regular
+Rate
+  Amount
+Assistant
+8
+4.00
+157.00
+628.00
+Assistant
+9
+8.00
+188.00
+1,504.00
+12.00
+2,132.00
+Subtotal Amount
+2,132.00
+TOTAL AMOUNT DUE THIS INVOICE
+2,132.00 USD
+Contract Maximum
+41,160.00
+Less Total Billed to Date
+13,052.18
+Amount Remaining
+28,107.82
+AccountsPayableBusiness@mwdh2o.com; hahang@mwdh2o.com
+Thank you for your business. We appreciate the opportunity to serve you.
+Project Manager: Doug Karlsberg +1 (657) 207-0958 dkarlsberg@burnsmcd.com
+Invoice Inquiry: Kyle Muathe  kmmuathe@burnsmcd.com
+By signing this invoice, consultant certifies that the billing 
+hours and work described herein is an accurate and 
+correct record of services performed for Metropolitan 
+under this Agreement and these hours have not been 
+billed on any other client invoices
+Doug Karlsberg 2/6/2025
+Page 2
+Invoice 176476-5
+Labor Summary  Amount
+Reg. Hours
+Prem. Hours
+Number
+Name
+Bill Level
+Classification
+Legal Entity
+4.00
+119523
+Malashe, Adwait
+8
+Assistant
+Burns & McDonnell Global Inc
+8.00
+44965
+Rane, Neeraj
+9
+Assistant
+Burns & McDonnell Global Inc
+12.00
+Page 3
+Invoice 176476-5
+Client labor Details Amount
+Project
+Task
+Bill 
+Level
+Name
+Classification
+Item Date
+Hours
+Legal Entity
+176476
+E98-BMI
+8
+Malashe, Adwait
+Assistant
+24-JAN-25
+4.00 
+Burns & McDonnell Global 
+Inc
+176476
+E98-BMI
+9
+Rane, Neeraj
+Assistant
+22-JAN-25
+4.00 
+Burns & McDonnell Global 
+Inc
+176476
+E98-BMI
+9
+Rane, Neeraj
+Assistant
+23-JAN-25
+4.00 
+Burns & McDonnell Global 
+Inc
+Subtotal   Amount
+12.00

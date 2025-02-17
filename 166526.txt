@@ -1,0 +1,64 @@
+Arya Ahang
+Metropolitan Water District
+P.O. Box 54153
+accountspayablebusiness@mwdh2o.com
+Michael Nguyen mnguyen@mwdh2o.com
+Los Angeles, CA  90054-0153
+February 10, 2025
+Invoice No:
+166526
+Project
+223-3476C
+MWD - Arc Flash Analysis Diemer WTP
+Contract Number: Task Order 29 / Agr 208158-02
+Terms:  Net 30 Days of Invoice Date
+Comments:
+Invoice Period:January 1, 2025 -  January 31, 2025
+Phase
+101
+Project Management and Clerical
+Project Management and Clerical
+Task
+101-2
+Invoicing
+Invoicing
+Professional Personnel
+Hours
+Rate
+Amount
+Project Manager
+Wafer, Jana
+1/2/2025
+.50
+133.00
+66.50
+Wafer, Jana
+1/9/2025
+.50
+133.00
+66.50
+Totals
+1.00
+133.00
+Total Labor
+133.00
+$133.00
+Sub-total this Task
+$133.00
+Sub-total this Phase
+$133.00
+TOTAL – PLEASE PAY THIS AMOUNT
+Billings to Date
+Current
+Prior
+Total
+Labor
+133.00
+6,683.00
+6,816.00
+Totals
+133.00
+6,683.00
+6,816.00
+Total Contract Amount
+10,530.00

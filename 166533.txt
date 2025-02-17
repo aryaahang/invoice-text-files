@@ -1,0 +1,117 @@
+Arya Ahang
+Metropolitan Water District
+P.O. Box 54153
+accountspayablebusiness@mwdh2o.com
+Michael Nguyen mnguyen@mwdh2o.com
+Los Angeles, CA  90054-0153
+February 10, 2025
+Invoice No:
+166533
+Project
+223-3581B
+MWD Greg Ave Facility
+Contract Number: Task Order 37 / Agr 208158-02
+Terms:  Net 30 Days of Invoice Date
+Comments:
+Invoice Period:January 1, 2025 -  January 31, 2025
+Phase
+101
+Project Management and Clerical
+Project Management and Clerical
+Task
+101-1
+Project Management
+Project Management
+Professional Personnel
+Hours
+Rate
+Amount
+Project Manager
+Wafer, Jana
+1/20/2025
+1.00
+133.00
+133.00
+Totals
+1.00
+133.00
+Total Labor
+133.00
+$133.00
+Sub-total this Task
+$133.00
+Sub-total this Phase
+Phase
+701
+QA/QC
+QA/QC
+Task
+701-1
+ETAP Model
+ETAP Model
+Professional Personnel
+Hours
+Rate
+Amount
+Sr Power Engineer
+Beheshtian, Hamid
+1/13/2025
+3.00
+150.00
+450.00
+Beheshtian, Hamid
+1/17/2025
+1.00
+150.00
+150.00
+Beheshtian, Hamid
+1/20/2025
+2.00
+150.00
+300.00
+Beheshtian, Hamid
+1/23/2025
+1.00
+150.00
+150.00
+Beheshtian, Hamid
+1/29/2025
+3.00
+150.00
+450.00
+Beheshtian, Hamid
+1/30/2025
+6.00
+150.00
+900.00
+Totals
+16.00
+2,400.00
+Total Labor
+2,400.00
+$2,400.00
+Sub-total this Task
+$2,400.00
+Sub-total this Phase
+$2,533.00
+TOTAL – PLEASE PAY THIS AMOUNT
+Billings to Date
+Current
+Prior
+Total
+Labor
+2,533.00
+6,063.00
+8,596.00
+Totals
+2,533.00
+6,063.00
+8,596.00
+Total Contract Amount
+12,555.00
+Page 2
+Project
+166533
+223-3581B
+MWD Greg Ave Facility
+Invoice

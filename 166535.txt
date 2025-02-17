@@ -1,0 +1,64 @@
+Arya Ahang
+Metropolitan Water District
+P.O. Box 54153
+accountspayablebusiness@mwdh2o.com
+Michael Nguyen mnguyen@mwdh2o.com
+Los Angeles, CA  90054-0153
+February 10, 2025
+Invoice No:
+166535
+Project
+224-3685B
+MWD Lake Perris HEP & PCS
+Contract Number: Task Order 38 / Agr 208158-02
+Terms:  Net 30 Days of Invoice Date
+Comments:
+Invoice Period:January 1, 2025 -  January 31, 2025
+Phase
+502
+Modeling and Analysis PCS
+Modeling and Analysis PCS
+Task
+502-2
+ETAP Model
+ETAP Model
+Professional Personnel
+Hours
+Rate
+Amount
+Project Manager
+Wafer, Jana
+1/15/2025
+2.00
+133.00
+266.00
+Wafer, Jana
+1/16/2025
+3.00
+133.00
+399.00
+Totals
+5.00
+665.00
+Total Labor
+665.00
+$665.00
+Sub-total this Task
+$665.00
+Sub-total this Phase
+$665.00
+TOTAL – PLEASE PAY THIS AMOUNT
+Billings to Date
+Current
+Prior
+Total
+Labor
+665.00
+3,427.00
+4,092.00
+Totals
+665.00
+3,427.00
+4,092.00
+Total Contract Amount
+38,995.00

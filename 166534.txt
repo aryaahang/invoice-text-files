@@ -1,0 +1,59 @@
+Arya Ahang
+Metropolitan Water District
+P.O. Box 54153
+accountspayablebusiness@mwdh2o.com
+Michael Nguyen mnguyen@mwdh2o.com
+Los Angeles, CA  90054-0153
+February 10, 2025
+Invoice No:
+166534
+Project
+223-3580B
+MWD HQ Facility
+Contract Number: Task Order 36 / Agr 208158-02
+Terms:  Net 30 Days of Invoice Date
+Comments:
+Invoice Period:January 1, 2025 -  January 31, 2025
+Phase
+501
+Modeling and Analysis
+Modeling and Analysis
+Task
+501-6
+ETAP Report and Recommendations
+ETAP Report and Recommendations
+Professional Personnel
+Hours
+Rate
+Amount
+Power Engineer II
+Hu, Jiaji
+1/30/2025
+8.00
+125.00
+1,000.00
+Totals
+8.00
+1,000.00
+Total Labor
+1,000.00
+$1,000.00
+Sub-total this Task
+$1,000.00
+Sub-total this Phase
+$1,000.00
+TOTAL – PLEASE PAY THIS AMOUNT
+Billings to Date
+Current
+Prior
+Total
+Labor
+1,000.00
+20,248.00
+21,248.00
+Totals
+1,000.00
+20,248.00
+21,248.00
+Total Contract Amount
+21,805.00

@@ -1,0 +1,248 @@
+             INVOICE
+Page 1 of 3
+Invoice Number
+2344099
+Invoice Date
+January 24, 2025
+Customer Number
+48908
+Project Number
+184031813
+Net Due in 45 Days or in accordance with terms of the contract
+Bill To
+Metropolitan Water District 
+of Southern California
+Accounts Payable 
+PO Box 54153 
+Los Angeles  CA 90054-0153
+United States 
+Please Remit To
+Stantec Consulting Services
+Inc. (SCSI)
+13980 Collections Center 
+Drive   
+Chicago  IL 60693 
+United States 
+Federal Tax ID 
+11-2167170
+Project Description:
+Task Order 11 Agreement 216225 CRA Pilot Venting Design
+Stantec Project Manager: 
+Contract No:
+Authorization No:
+Authorization Amount: 
+Authorization Previously Billed: 
+Authorization Budget Remaining: 
+Authorization Billed to Date: 
+Current Invoice Due: 
+For Period:
+Murthy, Umesh N  
+ 
+ 
+216225
+TO 11
+$128,280.00
+$110,980.60
+$10,664.80
+$117,615.20
+$6,634.60  
+ 
+ 
+December 1, 2024 - December 31, 2024
+Invoice Attention:
+Arya Ahang
+Invoice Attention Title:
+Contract and Project Manager
+Invoice Email:
+accountspayablebusiness@mwdh2o.com
+Client Contact Email:
+hahang@mwdh2o.com
+By signing this invoice, the consultant certifies that the 
+billing hours and work described herein is an accurate 
+and correct record of services performed for 
+Metropolitan under this Agreement and these hours 
+have not been billed on other client invoices. 
+_________________
+Signature
+_________________ 
+Date
+1/24/2025
+INVOICE
+Page 2 of 3
+Invoice Number
+2344099
+Project Number
+184031813
+  
+ 
+Top Task 8
+Venting Support Alternative Design
+Low Task 8.1
+Administration
+Professional Services
+Billing Level
+Date
+Hours
+Rate
+Current
+Amount
+ 
+Professional 
+Romero-Phillips, Elizabeth Abdulia
+2024-12-17
+0.75
+164.00
+123.00
+Romero-Phillips, Elizabeth Abdulia
+2024-12-18
+0.50
+164.00
+82.00
+Romero-Phillips, Elizabeth Abdulia
+2024-12-20
+0.50
+164.00
+82.00
+1.75
+287.00
+ 
+Supervising Professional 
+Ludden, Nadine A (Dina)
+2024-12-19
+0.10
+196.00
+19.60
+0.10
+19.60
+Professional Services Subtotal
+1.85
+306.60
+Low Task 8.1 Subtotal
+306.60
+Low Task 8.2
+Drawings - Hinds and Iron Mtn Sets
+Professional Services
+Billing Level
+Date
+Hours
+Rate
+Current
+Amount
+ 
+Principal Technologist/Project Manager 
+Dreher, Ruark
+2024-12-16
+1.00
+308.00
+308.00
+Dreher, Ruark
+2024-12-20
+1.00
+308.00
+308.00
+2.00
+616.00
+ 
+Senior Professional 
+Ude, Paul A
+2024-12-18
+8.00
+204.00
+1,632.00
+Ude, Paul A
+2024-12-19
+8.00
+204.00
+1,632.00
+Ude, Paul A
+2024-12-30
+8.00
+204.00
+1,632.00
+Ude, Paul A
+2024-12-31
+4.00
+204.00
+816.00
+28.00
+5,712.00
+Professional Services Subtotal
+30.00
+6,328.00
+INVOICE
+Page 3 of 3
+Invoice Number
+2344099
+Project Number
+184031813
+Low Task 8.2 Subtotal
+6,328.00
+Top Task 8 Total
+6,634.60
+Total Fees & Disbursements
+$6,634.60
+INVOICE TOTAL (USD)
+$6,634.60
+TO 11 - CRA Pilot Venting Design
+Start Date:
+2/13/2024
+Completion Date:
+5/31/2025
+Agreement:
+216225
+Stantec PM:
+Murthy, Umesh
+MWD Project #:
+Task Order Manager:
+Murthy, Umesh
+Stantec Project #:
+184031813
+Technical Lead:
+John Hanula
+Total
+Fee
+% Complete to 
+Previous 
+Period
+Previous Period
+% Complete 
+to This Period
+Current Invoice
+Total         
+Invoiced
+128,280.00
+$       
+87%
+110,980.60
+$           
+92%
+6,634.60
+$                
+117,615.20
+$       
+Total
+128,280.00
+$       
+87%
+110,980.60
+$           
+92%
+6,634.60
+$                
+117,615.20
+$       
+Work Performed this Reporting Period
+Work Planned for Next Reporting Period
+Finalization of deliverables 
+Issues and Actions Required
+Schedule Considerations
+Meetings / Significant Dates
+List of Deliverables
+Due Date
+Issued
+Redesign and update of drawings and bill of materials 
+Progress Report
+Reporting Period
+12/01/24 - 12/31/24
+Task Order
+TO 11 - CRA Pilot Venting Design
